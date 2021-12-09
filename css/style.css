@@ -1,0 +1,20 @@
+body{
+    font-family: 'Comfortaa', cursive;
+    
+}
+#barra-nav .nav-link:hover{
+    color:#00b09b;
+}
+#footer{
+    color: white;
+}
+#logo{
+font-family: 'Noto Serif Display', serif;
+
+color:#000000;
+letter-spacing: 3px;
+font-size: 1.75rem;
+}
+#barra-nav{
+    height: 6.25rem;
+}
